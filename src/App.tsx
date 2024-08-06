@@ -1,8 +1,8 @@
 function App() {
   return (
     <>
-      <div className="min-h-screen flex justify-center items-center">
-        <h1 className="text-3xl font-bold text-blue-600">
+      <div className="">
+        <h1 className="text-2xl text-error">
           React + Vite + TypeScript + Tailwind
         </h1>
       </div>
